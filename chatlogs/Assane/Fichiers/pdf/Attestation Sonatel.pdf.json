@@ -1,0 +1,10 @@
+[
+    {
+        "role": "user",
+        "content": "Quelle le contenu de ce document en quelques phrases"
+    },
+    {
+        "role": "assistant",
+        "content": "Ce document est une **Attestation de Stage**.\n\nIl atteste que **Assane Gassama** a effectué un stage au sein du **Service Gestion de la Workforce Temporaire et Externalisée de la Direction des Ressources Humaines de la SONATEL**.\n\nDeux versions du document existent avec des dates légèrement différentes (du 25 juin - 24 sept. 2025 ou du 25 sept. - 24 déc. 2025), mais le nom de l'employé et l'entreprise sont les mêmes. L'attestation est délivrée par **El Hadii Birahim Gueye**, Directeur des Ressources Humaines de la SONATEL."
+    }
+]

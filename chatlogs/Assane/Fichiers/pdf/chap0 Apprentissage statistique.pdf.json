@@ -1,0 +1,18 @@
+[
+    {
+        "role": "user",
+        "content": "c'est quoi la data science"
+    },
+    {
+        "role": "assistant",
+        "content": "La **data science** (ou science des données) est un domaine qui utilise des données et des méthodes (y compris l'**apprentissage automatique**) pour extraire des informations et aider les entreprises à prendre des décisions informées. Un data scientist travaille souvent selon un cycle d'analyse et repose sur trois éléments clés :  \n1. La quantité massive de données disponibles.  \n2. L'amélioration des algorithmes de traitement.  \n3. L'accès à des ressources de calcul suffisantes."
+    },
+    {
+        "role": "user",
+        "content": "quelle est le cycle de travail du data scientist"
+    },
+    {
+        "role": "assistant",
+        "content": "Selon le contexte fourni, le cycle de travail du data scientist peut se résumer à un schéma, mais les étapes précises ne sont pas détaillées dans le texte. Le contexte mentionne que le data scientist travaille pour produire des méthodes d'analyse automatisée des données, en passant par la récupération et le traitement de ces données, et en tenant compte des aspects éthiques."
+    }
+]
